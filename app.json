@@ -2,7 +2,7 @@
   "name": "Chatnurse Server",
   "description": "Flask server for Chatnurse app",
   "keywords": ["Flask", "API", "Python3"],
-  "repository": "https://github.com/euskoog/chatnurse-server",
+  "repository": "https://github.com/euskoog/chatnurse-utils-server",
   "logo": "https://telegra.ph/file/05e4a6d070a97dd853297.png",
   "success_url": "/code",
   "formation": {
